@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+广发证券前端技术博客
 
-### More Information
+### 团队介绍
 
-A place to include any other types of information that you'd like to include about yourself.
+分享一些技术经验总结
 
-### Contact me
+### 联系我们
 
 [email@domain.com](mailto:email@domain.com)
